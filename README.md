@@ -14,13 +14,13 @@
 
 #   Difficultés rencontrées
 
-La difficulté prémière que j'ai rencontré durant ce projet est surtout le manque de temps car j'étais tout seul pour accomplir ces tâches. 
-Puis j'avoue avoir eu du mal et perdu enormément de temps sur la réalisation car j'ai manqué/oublié certaines connaissances acquises pendant les cours.
-Exemple :l'execution et l'utilisation du Cluster. 
+    La difficulté prémière que j'ai rencontré durant ce projet est surtout le manque de temps car j'étais tout seul pour accomplir ces tâches. 
+    Puis j'avoue avoir eu du mal et perdu enormément de temps sur la réalisation car j'ai manqué/oublié certaines connaissances acquises pendant les cours.
+    Exemple :l'execution et l'utilisation du Cluster. 
 
 # Sources utilisées 
 
-Docker Hub : https://hub.docker.com/
-odoo : https://nightly.odoo.com/
-Docker : https://docs.docker.com/
+    Docker Hub : https://hub.docker.com/
+    odoo : https://nightly.odoo.com/
+    Docker : https://docs.docker.com/
 
